@@ -30,3 +30,7 @@ repos:
       - id: nbqa-black
       - id: nbqa-flake8
       - id: nbqa-isort
+-   repo: https://github.com/kynan/nbstripout
+    rev: 0.3.9
+    hooks:
+    - id: nbstripout

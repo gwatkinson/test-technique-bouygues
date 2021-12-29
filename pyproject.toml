@@ -28,6 +28,7 @@ notebook = "^6.4.6"
 jupyterlab = "^3.2.5"
 black = "^21.12b0"
 pylint = "^2.12.2"
+pre-commit = "^2.16.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

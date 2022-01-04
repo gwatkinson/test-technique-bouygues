@@ -1782,7 +1782,7 @@ scikit-learn = ["scikit-learn"]
 [metadata]
 lock-version = "1.1"
 python-versions = "3.9.9"
-content-hash = "0b349f08293b904ecfffae0c101e7a442bb9590d012773ef6d55070b3f33a9a7"
+content-hash = "65bf748085f82e314f66fc74149af74e4d1c14f4e4a1ef2babf1cab6bb28e8e6"
 
 [metadata.files]
 anyio = [

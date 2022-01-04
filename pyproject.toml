@@ -21,6 +21,7 @@ lightgbm = "^3.3.1"
 shap = "^0.40.0"
 sklearn-pandas = "^2.2.0"
 pandas-profiling = "^3.1.0"
+missingno = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"

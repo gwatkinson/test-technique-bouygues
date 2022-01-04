@@ -32,6 +32,7 @@ repos:
       - id: nbqa-flake8
         args: ["--max-line-length=100", "--ignore=E501,E402,F401"]
       - id: nbqa-isort
+        args: ["--profile=black"]
 -   repo: https://github.com/kynan/nbstripout
     rev: 0.3.9
     hooks:
